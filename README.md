@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Raman Devgan
+=====================================================================================================================================
 
-<!--
-**ramandevgan56/ramandevgan56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☁️ Passionate about Cloud 
 
-Here are some ideas to get you started:
+🐳 Currently learning Docker, Linux, and Kubernetes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 Won 1 college hackathon
+
+💡 Interested in Cloud Infrastructure, Automation, and Open Source
+
+📈 Consistently improving through projects and hands-on practice
+
+🚀 Working towards becoming a Cloud Engineer
+
+* 🌍  I'm based in INDIA
+* 🧠  I'm currently learning AWS,DOCKER,PYTHON,TERRAFORM
+* 💬  Part-time freelancer on Upwork
